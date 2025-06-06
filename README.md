@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nakul</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakultt&label=Profile%20views&color=0e75b6&style=flat" alt="nakultt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nakultt" alt="nakultt" /></a> </p>
-
 - 🔭 I’m currently working on [MultiVision](https://github.com/nakultt/MultiVision)
 
 - 👨‍💻 All of my projects are available at [https://nakultt.github.io/Portfolio-Website/portfolio.html](https://nakultt.github.io/Portfolio-Website/portfolio.html)
