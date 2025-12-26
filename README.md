@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://nakultt.github.io/Portfolio-Website/portfolio.html](https://nakultt.github.io/Portfolio-Website/portfolio.html)
 
-- 📫 How to reach me **nakulnuked@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
