@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nakul
 
-### Backend AI Developer Intern @ Ragworks AI · B.Tech AI & DS · 3× Hackathon Winner 🏆
+### Backend AI Developer Intern @ Ragworks AI · B.Tech AI & DS · 6× Hackathon Winner 🏆
 
 
 - 🔭 I'm currently working on **AuditPilot**
