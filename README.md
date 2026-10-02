@@ -1,7 +1,7 @@
 <!-- Images live in assets/ (built by .github/profile/static.py) and on the output branch (activity.yml, daily). -->
 
 <p>
-<a href="https://visit.nakul.qzz.io">
+<a href="https://nakul.qzz.io">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/hero-dark.svg">
     <img alt="Nakul T, backend AI developer at Ragworks.AI, building agentic AI systems, GraphRAG memory engines and edge vision." src="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/hero-light.svg" width="100%">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://visit.nakul.qzz.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/link-portfolio-dark.svg"><img alt="Portfolio" src="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/link-portfolio-light.svg" height="40"></picture></a>&nbsp;
+  <a href="https://nakul.qzz.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/link-portfolio-dark.svg"><img alt="Portfolio" src="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/link-portfolio-light.svg" height="40"></picture></a>&nbsp;
   <a href="https://linkedin.com/in/nakult"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/link-linkedin-dark.svg"><img alt="LinkedIn" src="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/link-linkedin-light.svg" height="40"></picture></a>&nbsp;
   <a href="https://leetcode.com/u/nakultt"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/link-leetcode-dark.svg"><img alt="LeetCode" src="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/link-leetcode-light.svg" height="40"></picture></a>&nbsp;
   <a href="https://www.kaggle.com/nakultt"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/link-kaggle-dark.svg"><img alt="Kaggle" src="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/link-kaggle-light.svg" height="40"></picture></a>
