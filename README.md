@@ -1,24 +1,86 @@
-# Hi 👋, I'm Nakul
+<!-- Images live in assets/ (built by .github/profile/static.py) and on the output branch (activity.yml, daily). -->
 
-### Backend AI Developer Intern @ Ragworks AI · B.Tech AI & DS · 6× Hackathon Winner 🏆
-
-
-- 🔭 I'm currently working on **AuditPilot**
-
-- 🌱 I'm currently learning **LLM fine-tuning**
-
-- 👯 I'm looking to collaborate on **AI/ML, RAG systems, LangGraph apps, Hackathons**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/nakultt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nakultt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nakult" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nakult" height="30" width="40" /></a>
+<p>
+<a href="https://visit.nakul.qzz.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/hero-dark.svg">
+    <img alt="Nakul T, backend AI developer at Ragworks.AI, building agentic AI systems, GraphRAG memory engines and edge vision." src="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/hero-light.svg" width="100%">
+  </picture>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/d3js" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=d3" alt="d3js" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mlflow" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/openresty" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="openresty" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<p align="center">
+  <a href="https://visit.nakul.qzz.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/link-portfolio-dark.svg"><img alt="Portfolio" src="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/link-portfolio-light.svg" height="40"></picture></a>&nbsp;
+  <a href="https://linkedin.com/in/nakult"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/link-linkedin-dark.svg"><img alt="LinkedIn" src="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/link-linkedin-light.svg" height="40"></picture></a>&nbsp;
+  <a href="https://leetcode.com/u/nakultt"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/link-leetcode-dark.svg"><img alt="LeetCode" src="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/link-leetcode-light.svg" height="40"></picture></a>&nbsp;
+  <a href="https://www.kaggle.com/nakultt"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/link-kaggle-dark.svg"><img alt="Kaggle" src="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/link-kaggle-light.svg" height="40"></picture></a>
+</p>
 
+### About
 
+I'm a backend AI developer at **Ragworks.AI** and an AI & Data Science undergraduate at KPR Institute of Engineering and Technology. I build agentic systems end to end: FastAPI microservices, LlamaIndex retrieval and Model Context Protocol tooling, and I take them to the edge when the problem calls for it.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakultt&" alt="nakultt" /></p>
+- **Now:** building AuditPilot and production AI pipelines at Ragworks.AI
+- **Learning:** LLM fine-tuning
+- **Open to:** collaborating on RAG systems, LangGraph agents and hackathons
 
+### Featured work
+
+<p align="center">
+  <a href="https://github.com/nakultt/cortex"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/card-cortex-dark.svg"><img alt="Cortex: long-term memory for LLMs on a knowledge graph. 150 ms retrieval, down from 1.2 s; 25% lower LLM API spend." src="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/card-cortex-light.svg" width="49%"></picture></a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/card-pacer-dark.svg"><img alt="PACER: real-time traffic-violation detection at the edge. YOLO26n at 30+ FPS on a Raspberry Pi; 85% less memory." src="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/card-pacer-light.svg" width="49%"></picture>
+  <a href="https://github.com/nakultt/sosmesh"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/card-sosmesh-dark.svg"><img alt="SOS Mesh: disaster alerts relayed phone to phone without internet. 45% less network congestion." src="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/card-sosmesh-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/nakultt?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/card-more-dark.svg"><img alt="More on GitHub: browse all repositories." src="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/card-more-light.svg" width="49%"></picture></a>
+</p>
+
+### Experience
+
+**Backend AI Developer (Intern) · Ragworks.AI** · Jan 2026 – present  
+FastAPI microservices and end-to-end AI pipelines with LlamaIndex retrieval and Model Context Protocol tooling. Tuning the LLM call chain and retrieval strategy raised answer accuracy by 20% and cut hallucinations.
+
+**Frontend Developer (Intern) · Hyperready Technology** · Oct 2025 – Jan 2026  
+React, TypeScript and D3.js dashboards wired to REST APIs and the Mastra AI framework, shipped in Docker. The interactive visualisations lifted engagement by 30%.
+
+### Recognition
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/recognition-dark.svg">
+  <img alt="6 first-place wins, 9 podium finishes, 3 finalist spots, 1 published patent, 200+ LeetCode problems solved." src="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/recognition-light.svg" width="100%">
+</picture>
+
+**Patent:** *Portable edge-based traffic violation and hazard detection system using YOLO26n* (IN202641050464 A1, published Apr 2026)
+
+<details>
+<summary>All results</summary>
+<br>
+
+| Result | Event | Organizer | Date |
+| :-- | :-- | :-- | :-- |
+| **1st** | The Great Agent Hackathon | Freshworks, Bengaluru | Sep&nbsp;2026 |
+| **2nd** | SEMICON India Hackathon 2026 | SEMI and Applied Materials, Delhi | Sep&nbsp;2026 |
+| **2nd** | AVANZARE V19.0 Hackathon | Kongu Engineering College | Jul&nbsp;2026 |
+| Finalist | Snapdragon Multiverse Hackathon | Qualcomm | Jul&nbsp;2026 |
+| Finalist | Caterpillar Tech Challenge 2026 | Caterpillar | Jun&nbsp;2026 |
+| Finalist | Odoo × KAHE Coimbatore Hackathon '26 | KAHE | Jun&nbsp;2026 |
+| **1st** | Innovsense Hackathon | KPR IET | Apr&nbsp;2026 |
+| **1st** | Quantum Shield Hackathon | Sri Shakthi Institute (SIET) | Mar&nbsp;2026 |
+| **1st** | Paper Presentation | KPR IET | Mar&nbsp;2026 |
+| **1st** | HACK2TECHSUSTAIN 2.0 | MIT, Anna University | Dec&nbsp;2025 |
+| **1st** | GCCXSHIFT Hackathon | 6S Consulting | Dec&nbsp;2025 |
+| **3rd** | Code Redemption Hackathon | Jai Shriram Engineering College | Aug&nbsp;2025 |
+
+</details>
+
+### Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/stack-dark.svg">
+  <img alt="Languages: Python, TypeScript, Java, C, R, MATLAB. GenAI: LangChain, LangGraph, LlamaIndex, MCP, RAG, Hugging Face, Ollama. ML and vision: TensorFlow, OpenCV, YOLO, CNN, LSTM. Backend and web: FastAPI, Node.js, Express, React, Next.js, Tailwind CSS, D3.js. Data: PostgreSQL, MongoDB, Redis, MySQL, Neo4j, Qdrant, ChromaDB. DevOps: Docker, Kubernetes, GitHub Actions, Jenkins, Linux, DVC, AWS." src="https://raw.githubusercontent.com/nakultt/nakultt/main/assets/stack-light.svg" width="100%">
+</picture>
+
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakultt/nakultt/output/activity-dark.svg">
+  <img alt="Contribution activity for the last year with current and longest streaks, refreshed daily." src="https://raw.githubusercontent.com/nakultt/nakultt/output/activity-light.svg" width="100%">
+</picture>
